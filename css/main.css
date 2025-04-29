@@ -47,6 +47,7 @@ h3, h4 {
 	font-size: 18px;
 	height: 30px;
 	overflow: hidden;
+	user-select: none;
 }
 
 .items__control {
